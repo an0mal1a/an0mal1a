@@ -15,7 +15,7 @@ A **cybersecurity** and **programming** enthusiast, with special interest in bot
 
 # GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=an0mal1a&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=dark)](https://git.io/streak-stats)
 
 ---
 
