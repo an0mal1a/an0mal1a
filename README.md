@@ -43,7 +43,7 @@ A full real estate CRM with a WhatsApp AI chatbot — intent classification,
 appointment management, property matching, real-time agent dashboards,
 SSE notifications. Production-deployed and powering [tierrasdeibiza.com](https://tierrasdeibiza.com).
 
-**open-eyetracker** *(public)*
+**open-eyetracker** *(private)*
 AI-powered head and eye tracking via webcam, integrated with OpenTrack.
 Built for sim racing and driving games (BeamNG, Assetto Corsa). No expensive hardware needed.
 
