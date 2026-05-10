@@ -10,17 +10,16 @@ and I write tools that operate at the lowest levels of the stack.
 
 ## 🔬 What I actually do
 
-**Security Research**
-- Post-exploitation tooling (C, low-level Windows/Linux internals)  
-- Reversing embedded systems and proprietary firmware  
-- Evasion research, C2 architecture, and agent design  
-- Network analysis and protocol-level exploitation  
-
 **Software Engineering**  
 - Production backends: FastAPI, PostgreSQL, Redis, Docker  
 - AI-integrated systems: LLM pipelines, intent classification, WhatsApp automation  
 - Frontend: Vue/Nuxt, real-time SSE, dashboard design  
 - Automation: webhook systems, cron dispatchers, ML-assisted workflows  
+
+**Security Research**
+- Post-exploitation tooling (C, low-level Windows/Linux internals)  
+- Evasion research, C2 architecture, and agent design  
+- Network analysis and protocol-level exploitation  
 
 ---
 
@@ -35,20 +34,21 @@ and I write tools that operate at the lowest levels of the stack.
 
 ## 🚀 Highlighted Projects
 
-**NightMare Framework** *(private)*  
-A C2 post-exploitation framework written in C. Client-server architecture, GUI, 
+**NightMare Framework** *(private)*
+A C2 post-exploitation framework written in C. Client-server architecture, GUI,
 modular agent design. Built for research and controlled lab environments.
 
-**Vestta CRM** *(private)*  
-A full real estate CRM with a WhatsApp AI chatbot — intent classification, 
-appointment management, property matching, real-time agent dashboards, 
-SSE notifications. Production-deployed.
+**Vestta CRM** *(private)*
+A full real estate CRM with a WhatsApp AI chatbot — intent classification,
+appointment management, property matching, real-time agent dashboards,
+SSE notifications. Production-deployed and powering [tierrasdeibiza.com](https://tierrasdeibiza.com).
 
-**Embedded firmware research**  
-Reversing and analysing router firmware: config extraction, 
-upload endpoint exploitation, admin interface analysis.
+**open-eyetracker** *(public)*
+AI-powered head and eye tracking via webcam, integrated with OpenTrack.
+Built for sim racing and driving games (BeamNG, Assetto Corsa). No expensive hardware needed.
 
 > Most serious work stays private — not out of obscurity, but responsible handling.
+
 
 ---
 
