@@ -44,7 +44,7 @@ Built for sim racing (BeamNG, Assetto Corsa). No expensive hardware needed.
 
 **NightMare Framework** *(private)*
 C2 post-exploitation framework in C. Modular agent design, client-server architecture, GUI.
-Built for controlled lab environments and security research, docs can be found on [NightmareFramework](https://github.com/an0mal1a/Nightmare-Framework).
+Built for controlled lab environments and security research, docs can be found on [NightmareFramework](https://github.com/an0mal1a/Nightmare-Framework-Docs).
 
 > Most serious work stays private — responsible handling, not obscurity.
 
