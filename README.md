@@ -1,54 +1,52 @@
 # 👋 Hey, I'm An0mal1a
 
-**Security researcher** and **full-stack developer** — I build things to understand them, break them to improve them.
-
-My work lives at the intersection of **offensive security** and **real-world software engineering**. 
-I'm not just a CTF player or a scriptkiddie with a checklist — I ship production systems 
-and I write tools that operate at the lowest levels of the stack.
+**Full-Stack Developer** with a deep background in **security research** —
+I build production systems end-to-end, and I understand the threat model
+behind everything I ship.
 
 ---
 
 ## 🔬 What I actually do
 
-**Software Engineering**  
-- Production backends: FastAPI, PostgreSQL, Redis, Docker  
-- AI-integrated systems: LLM pipelines, intent classification, WhatsApp automation  
-- Frontend: Vue/Nuxt, real-time SSE, dashboard design  
-- Automation: webhook systems, cron dispatchers, ML-assisted workflows  
+**Full-Stack Engineering**
+- Production backends: FastAPI, PostgreSQL, Redis, Docker
+- AI-integrated systems: LLM pipelines, intent classification, WhatsApp automation
+- Frontend: Vue/Nuxt, real-time SSE, dashboard design
+- Automation: webhook systems, cron dispatchers, ML-assisted workflows
 
-**Security Research**
-- Post-exploitation tooling (C, low-level Windows/Linux internals)  
-- Evasion research, C2 architecture, and agent design  
-- Network analysis and protocol-level exploitation  
-
----
-
-## 🛠️ Languages & Stack
-
-`Python` · `Rust` · `Vue/Nuxt` · `Bash` · `PHP` · `JavaScript` · `HTML/CSS`  
-`PostgreSQL` · `Redis` · `FastAPI`  · `WhatsApp Cloud API` 
-`Linux` · `Windows` · `Mac` · `WSL` · `Docker` `C` · `C++` 
-`C` · `C++` 
+**Security (because context matters)**
+- I know how systems get broken — that shapes how I build them
+- Post-exploitation tooling, C2 architecture, low-level Windows/Linux internals
+- Network analysis, protocol-level exploitation, evasion research
+- CTF player, certified — but that's background, not the headline
 
 ---
 
-## 🚀 Highlighted Projects
+## 🛠️ Stack
 
-**NightMare Framework** *(private)*
-A C2 post-exploitation framework written in C. Client-server architecture, GUI,
-modular agent design. Built for research and controlled lab environments.
+- **Backend & Infra**: `Python` · `FastAPI` · `Postgre/MySQL` · `Redis` · `Docker` · `Bash` · `Rust (in progress)`
+- **Frontend**: `Vue/Nuxt` · `TailwindCSS` · `JavaScript` · `HTML/CSS` · `Astro (in future)`
+- **Systems & Low-level**: `C` · `C++` · `Rust`
+- **Platforms**: `Linux` · `Windows` · `WSL` · `Mac`
 
-**Vestta CRM** *(private)*
-A full real estate CRM with a WhatsApp AI chatbot — intent classification,
+---
+
+## 🚀 Projects
+
+**Vestta CRM** *(production)*
+Full real estate CRM with an AI-powered WhatsApp chatbot — intent classification,
 appointment management, property matching, real-time agent dashboards,
-SSE notifications. Production-deployed and powering [tierrasdeibiza.com](https://tierrasdeibiza.com).
+SSE notifications. Live at [vestta.app](https://vestta.app). Powering [tierrasdeibiza.com](https://tierrasdeibiza.com) real estate page.
 
 **open-eyetracker** *(private)*
 AI-powered head and eye tracking via webcam, integrated with OpenTrack.
-Built for sim racing and driving games (BeamNG, Assetto Corsa). No expensive hardware needed.
+Built for sim racing (BeamNG, Assetto Corsa). No expensive hardware needed.
 
-> Most serious work stays private — not out of obscurity, but responsible handling.
+**NightMare Framework** *(private)*
+C2 post-exploitation framework in C. Modular agent design, client-server architecture, GUI.
+Built for controlled lab environments and security research, docs can be found on [NightmareFramework](https://github.com/an0mal1a/Nightmare-Framework).
 
+> Most serious work stays private — responsible handling, not obscurity.
 
 ---
 
@@ -59,13 +57,13 @@ Built for sim racing and driving games (BeamNG, Assetto Corsa). No expensive har
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=github-dark-blue)](https://git.io/streak-stats)
 
-| [![Stats](https://github-readme-stats.vercel.app/api?username=an0mal1a&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0mal1a&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| Overall | Languages |
 |:---:|:---:|
-
+| [![Stats](https://github-readme-stats-green-theta-69.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-green-theta-69.vercel.app/api/top-langs/?username=an0mal1a&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
 ---
 
 ⚠️ All offensive tooling shared here is for **research, education and ethical use only**.  
