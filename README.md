@@ -1,8 +1,6 @@
 # 👋 Hey, I'm An0mal1a
 
-**Full-Stack Developer** with a deep background in **security research** —
-I build production systems end-to-end, and I understand the threat model
-behind everything I ship.
+**Full-Stack Developer** with a deep background in **security research** — I build production systems end-to-end, and I understand the threat model behind everything I ship.
 
 ---
 
