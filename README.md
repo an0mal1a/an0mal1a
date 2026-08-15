@@ -33,18 +33,11 @@ behind everything I ship.
 
 ## 🚀 Projects
 
-**Vestta CRM** *(production)*
-Full real estate CRM with an AI-powered WhatsApp chatbot — intent classification,
-appointment management, property matching, real-time agent dashboards,
-SSE notifications. Live at [vestta.app](https://vestta.app). Powering [tierrasdeibiza.com](https://tierrasdeibiza.com) real estate page.
+**Vestta CRM** *(production)*: Full real estate CRM with an AI-powered WhatsApp chatbot — intent classification, appointment management, property matching, real-time agent dashboards, SSE notifications. Live at [vestta.app](https://vestta.app). Powering [tierrasdeibiza.com](https://tierrasdeibiza.com) real estate page.
 
-**NightMare Framework** *source-available*
-C2 post-exploitation framework in C. Modular agent design, client-server architecture, GUI.
-Built for controlled lab environments and security research, docs can be found on [nightmare-framework](https://github.com/an0mal1a/nightmare-framework).
+**NightMare Framework** *source-available*: C2 post-exploitation framework in C. Modular agent design, client-server architecture, GUI. Built for controlled lab environments and security research, docs can be found on [nightmare-framework](https://github.com/an0mal1a/nightmare-framework).
 
-**open-eyetracker** *(private)*
-AI-powered head and eye tracking via webcam, integrated with OpenTrack.
-Built for sim racing (BeamNG, Assetto Corsa). No expensive hardware needed.
+**lxdb**: Open-source binary format, compiler and zero-copy engine for building and querying multilingual semantic graphs.
 
 > Most serious work stays private — responsible handling, not obscurity.
 
