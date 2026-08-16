@@ -51,7 +51,7 @@
     alt="GitHub Contributions"
   />
   <img
-    width="47%"
+    width="47.5%"
     src="https://git-stats-extended-pearl.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false"
     alt="GitHub Stats"
   />
