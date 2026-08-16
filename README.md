@@ -54,7 +54,7 @@
 
 | Overall | Languages |
 |:---:|:---:|
-| [![Stats](https://git-stats-extended-pearl.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://git-stats-extended-pearl.vercel.app/api/top-langs/?username=an0mal1a&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Stats](https://git-stats-extended-pearl.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://git-stats-extended-pearl.vercel.app/api/top-langs?username=an0mal1a&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
 ---
 
 ⚠️ All offensive tooling shared here is for **research, education and ethical use only**.  
