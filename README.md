@@ -44,27 +44,44 @@
 
 ## 📊 GitHub
 
+
 <p align="center">
-  <img
-    width="50%"
-    src="https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=github-dark-blue&hide_border=false"
+  <img 
+    width="59%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=an0mal1a&theme=github_dark"
     alt="GitHub Contributions"
-  />
+  /> 
   <img
-    width="47.5%"
-    src="https://git-stats-extended-pearl.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false"
+    width="40.5%"
+    src="https://github-stats-extended.vercel.app/api?username=an0mal1a&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github&border_color=1f242a&hide_border=false"
     alt="GitHub Stats"
   />
 </p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://git-stats-activity-graph.vercel.app/graph?username=an0mal1a&bg_color=0D1117&color=8B949E&title_color=C9D1D9&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true&hide_border=false&radius=12&days=40&custom_title=GitHub%20Activity"
-    alt="GitHub Activity Graph"
+<p align="left"> 
+  <img   
+    width="30%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=an0mal1a&layout=compact&langs_count=6&theme=github_dark&border_color=1f242a&card_height=120"
+    alt="GitHub Stats"
   />
+  <img   
+    width="34%"
+    src="https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=github-dark-blue&card_width=395&card_height=190&border=1F242A&hide_total_contributions=true"
+    alt="GitHub Stats"
+  />
+  <img   
+    width="34.5%"
+    src="https://gist.githubusercontent.com/an0mal1a/a64cb68ce7ebae1888c2147cb37278fa/raw/productive-box.svg"
+    alt="GitHub Stats"
+  />
+
 </p>
 
+<p align="center"> 
+  <img 
+    src="https://git-stats-activity-graph.vercel.app/graph?username=an0mal1a&bg_color=0D1117&color=8B949E&title_color=C9D1D9&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true&hide_border=false&radius=12&days=40&custom_title=GitHub%20Activity"
+    alt="GitHub Stats"
+  />
+</p>
 ## 📡 Find me
 
 <p align="center">
