@@ -57,7 +57,7 @@
     alt="GitHub Stats"
   />
 </p>
-<p align="left"> 
+<p align="center"> 
   <img   
     width="30%"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=an0mal1a&layout=compact&langs_count=6&theme=github_dark&border_color=1f242a&card_height=120"
