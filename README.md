@@ -78,7 +78,7 @@
 
 <p align="center"> 
   <img 
-    src="https://git-stats-activity-graph.vercel.app/graph?username=an0mal1a&bg_color=0D1117&color=8B949E&title_color=C9D1D9&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true&hide_border=false&radius=12&days=40&custom_title=GitHub%20Activity"
+    src="https://git-stats-activity-graph.vercel.app/graph?username=an0mal1a&bg_color=0D1117&color=8B949E&title_color=C9D1D9&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true&hide_border=false&radius=12&days=40&custom_title=GitHub%20Activity&border_color=1f242a"
     alt="GitHub Stats"
   />
 </p>
