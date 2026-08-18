@@ -59,17 +59,17 @@
 </p>
 <p align="center"> 
   <img   
-    width="30%"
+    width="28%"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=an0mal1a&layout=compact&langs_count=6&theme=github_dark&border_color=1f242a&card_height=120"
     alt="GitHub Stats"
   />
   <img   
-    width="34%"
+    width="32%"
     src="https://github-readme-streak-stats-neon-iota.vercel.app?user=an0mal1a&theme=github-dark-blue&card_width=395&card_height=190&border=1F242A&hide_total_contributions=true"
     alt="GitHub Stats"
   />
   <img   
-    width="34.5%"
+    width="38.5%"
     src="https://gist.githubusercontent.com/an0mal1a/a64cb68ce7ebae1888c2147cb37278fa/raw/productive-box.svg"
     alt="GitHub Stats"
   />
